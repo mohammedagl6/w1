@@ -37,3 +37,7 @@ body{
     border-bottom: 7vw solid transparent;
     border-left: 7vw solid #ffd946;
 }
+header{
+    color:coral;
+    text-align: center;
+}
